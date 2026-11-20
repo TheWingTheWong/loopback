@@ -1,0 +1,14 @@
+{
+  "name": "loopback",
+  "version": "1.0.0",
+  "description": "A daily time-loop puzzle where your past selves are your only teammates. Zero-dependency browser game with a provably-solvable generator.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node serve.mjs 8080"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
